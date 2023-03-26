@@ -77,3 +77,5 @@ Other features that are under development include (these may not all be realized
     - potential for interactive "buy/sell" market as player can drop an item on a pad to begin interaction workflow
   - Player backpack support so items grabbed are tracked per "looter"
   - Custom and selected tokens can be set as interaction tokens
+
+https://www.youtube.com/watch?v=svNanE0mjP4
