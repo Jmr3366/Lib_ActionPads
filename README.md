@@ -1,6 +1,7 @@
 # Lib_ActionPads
 This is an drop in library token to be used within the Maptool VTT application.
-It provides an easy to use GUI Overlay quickly create:
+It provides an easy to use GUI Overlay to quickly create:
+
 - Doors Menu
   - Doors (Windows)
     - **Open, Cracked, Closed** states with option for a **Keyhole**
@@ -30,7 +31,7 @@ It provides an easy to use GUI Overlay quickly create:
     - **Detection Pad** additional pad to check for trap
     - **Disable Pad** additional pad to disable a trap
     - Trigger once or many
-    - Eacy to reset, check who's hit
+    - Easy to reset, check who's hit
     - Animated trap support that tracks who's it (rolling boulders, shooting arrows, etc)
 
 
