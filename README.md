@@ -2,7 +2,7 @@
 This is an drop in library token to be used within the Maptool VTT application.
 It provides an easy to use GUI Overlay to quickly create:
 
-- Doors Menu
+- Doors Menu (video tutorial https://www.youtube.com/watch?v=svNanE0mjP4 )
   - Doors (Windows)
     - **Open, Cracked, Closed** states with option for a **Keyhole**
     - **Hinge, Slide, Lift** with option to make **Secret**
@@ -77,5 +77,3 @@ Other features that are under development include (these may not all be realized
     - potential for interactive "buy/sell" market as player can drop an item on a pad to begin interaction workflow
   - Player backpack support so items grabbed are tracked per "looter"
   - Custom and selected tokens can be set as interaction tokens
-
-https://www.youtube.com/watch?v=svNanE0mjP4
