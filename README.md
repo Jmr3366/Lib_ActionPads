@@ -3,9 +3,9 @@ This is an drop in library token to be used within the Maptool VTT application.
 It provides an easy to use GUI Overlay quickly create:
 - Doors Menu
   - Doors (Windows)
-    - **Open, Cracked, Closed** states with option for a **Keyhole
-    - **Hinge, Slide, Lift** with option to make **Secret
-    - Each state can be **Animated
+    - **Open, Cracked, Closed** states with option for a **Keyhole**
+    - **Hinge, Slide, Lift** with option to make **Secret**
+    - Each state can be **Animated**
     - **Locks** GM or player **player inventoried** keys that are dropped / selected
     - With **Vision and Movement Blocking** options
     - **Interactive** and responsive **Door Actuator** options
@@ -13,18 +13,17 @@ It provides an easy to use GUI Overlay quickly create:
     - **Windows** 
     - **Custom Door Assets** Support (also includes generic and simple options) 
     - Simple and Generic doors are built-in and optional
-    
+
+
 - Step-On Menu
   - Moved Under (tokens to go Opaque or Invisible)
     - **Roofs & Trees**
     - **Multiple Roof Token** support
     - **Multiple Entry & Exit** support
     - **Custom Roof, Tree Assets** Support (selected tokens can also be used)
-    
   - Moved On To Detection
     - **Generic Trigger** moved on or off 
     - **Up / Down Stairs** in-map teleports 
-    
   - Traps (pads can support player property checks)
     - **Generic Trap** to stop token movement
     - **Trigger Pad** additional pad to trigger trap
@@ -33,7 +32,8 @@ It provides an easy to use GUI Overlay quickly create:
     - Trigger once or many
     - Eacy to reset, check who's hit
     - Animated trap support that tracks who's it (rolling boulders, shooting arrows, etc)
-    
+
+
 - Toolbox Menu
   - Simple Vehicle Support (limited functionality)
   - GM - See All token 
@@ -42,7 +42,8 @@ It provides an easy to use GUI Overlay quickly create:
     - Records and plays back to all connected players, token movement (including fade to and from black, audio support)
       - You record several "legs" of token movement to create a final movie
   - Token ID and Asset ID output    
-  
+
+
 - Config Menu
   - Doors
     - Knock, Listen, Pry, Pick, Attack, Peephole, and more
@@ -62,7 +63,8 @@ It provides an easy to use GUI Overlay quickly create:
       - You record several "legs" of token movement to create a final movie
   - Token ID and Asset ID output
 
-Many features can be linked together such that a series of action can take place by player token movement.
+
+Many features can be linked together such that a series of actions can take place by player token movement or player interactions.
 GMs retain full control
 
 Other features that are under development include (these may not all be realized)
@@ -72,5 +74,5 @@ Other features that are under development include (these may not all be realized
     - turn on Lights, open Dialogs, move tokens, loot items from map
   - Support to grab and drop items from the map
     - potential for interactive "buy/sell" market as player can drop an item on a pad to begin interaction workflow
-  - Player backpack support so items grabbed are tracked
+  - Player backpack support so items grabbed are tracked per "looter"
   - Custom and selected tokens can be set as interaction tokens
