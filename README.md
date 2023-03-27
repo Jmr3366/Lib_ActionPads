@@ -7,7 +7,7 @@ It provides an easy to use GUI Overlay to quickly create:
     - **Open, Cracked, Closed** states with option for a **Keyhole**
     - **Hinge, Slide, Lift** with option to make **Secret**
     - Each state can be **Animated**
-    - **Locks** GM or player **player inventoried** keys that are dropped / selected
+    - **Locks** GM or **player inventoried** keys that are dropped / selected
     - With **Vision and Movement Blocking** options
     - **Interactive** and responsive **Door Actuator** options
     - ***Drawbridge*** type door
