@@ -57,13 +57,7 @@ It provides an easy to use GUI Overlay to quickly create:
     - Nearly all "actions" support a custom macro or evalMacro
   - Images
     - Nearly all "actions" support a change to token image
-  - GM - See All token 
-    - Creates a token with common GM macros
-  - Movie Maker 
-    - Records and plays back to all connected players, token movement (including fade to and from black, audio support)
-      - You record several "legs" of token movement to create a final movie
-  - Token ID and Asset ID output
-
+  
 
 Many features can be linked together such that a series of actions can take place by player token movement or player interactions.
 GMs retain full control
