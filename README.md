@@ -16,7 +16,7 @@ It provides an easy to use GUI Overlay to quickly create:
     - Simple and Generic doors are built-in and optional
 
 
-- Step-On Menu (snap to grid is required)
+- Step-On Menu (video tutorial https://www.youtube.com/watch?v=UmZwGRVfFYM )
   - Moved Under (tokens to go Opaque or Invisible)
     - **Roofs & Trees**
     - **Multiple Roof Token** support
