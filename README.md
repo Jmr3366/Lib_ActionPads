@@ -36,6 +36,7 @@ It provides an easy to use GUI Overlay to quickly create:
 
 
 - Toolbox Menu
+  - Sound Pads with distance detection, plays audio volume based off distance
   - Simple Vehicle Support (limited functionality)
   - GM - See All token 
     - Creates a token with common GM macros
