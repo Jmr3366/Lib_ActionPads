@@ -42,9 +42,7 @@ It provides an easy to use GUI Overlay to quickly create:
     - Creates a token with common GM macros
   - Movie Maker 
     - Records and plays back to all connected players, token movement (including fade to and from black, audio support)
-      - You record several "legs" of token movement to create a final movie  
-  - Sound Pads
-    - Can play one or more audio files with distance and vision based volume control
+      - You record several "legs" of token movement to create a final movie
   - Token ID and Asset ID output    
 
 
