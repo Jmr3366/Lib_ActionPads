@@ -1,5 +1,7 @@
+
 # Lib_ActionPads
 ![alt text](https://github.com/Jmr3366/Lib_ActionPads/blob/main/LibActionPads.webp?raw=true)
+
 This is an drop in library token to be used within the Maptool VTT application.
 It provides an easy to use GUI Overlay to quickly create:
 
@@ -17,7 +19,7 @@ It provides an easy to use GUI Overlay to quickly create:
     - Simple and Generic doors are built-in and optional
 
 
-- Step-On Menu (snap to grid is required)
+- Step-On Menu (video tutorial https://www.youtube.com/watch?v=UmZwGRVfFYM )
   - Moved Under (tokens to go Opaque or Invisible)
     - **Roofs & Trees**
     - **Multiple Roof Token** support
@@ -37,6 +39,7 @@ It provides an easy to use GUI Overlay to quickly create:
 
 
 - Toolbox Menu
+  - Sound Pads with distance detection, plays audio volume based off distance
   - Simple Vehicle Support (limited functionality)
   - GM - See All token 
     - Creates a token with common GM macros
